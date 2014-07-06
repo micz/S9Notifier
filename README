@@ -1,0 +1,11 @@
+An Android app that lets you show the k-9 mail unread mails in a SAMSUNG phone with the standard launcher (TouchWiz).
+
+To use this app you need:
+* K-9 Mail [https://play.google.com/store/apps/details?id=com.fsck.k9].
+* A SAMSUNG phone with the standard launcher (TouchWiz).
+
+
+Thanks to...
+* the K-9 Mail team, for their great mail app.
+* shafty023, for his SamsungBadger lib [https://github.com/shafty023/SamsungBadger].
+* baolongnt, for some code in his EmailPopup addon [https://github.com/baolongnt/EmailPopup].
